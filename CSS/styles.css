@@ -1,0 +1,25 @@
+body {
+    background-color:#F7F1E5
+}
+
+hr{
+    color:grey;
+    border: dotted;
+    height:0%;
+    width: 5%;
+    border-width: 5px;
+    border-bottom:0;
+}
+h1{
+    color: #2B3467;
+}
+h3{
+    color: #4E6E81;
+}
+
+a{
+    color:blue;
+}
+a:visited{
+    color:purple
+}
