@@ -1,0 +1,18 @@
+hr{
+    border-style:dotted;
+    color:grey;
+    width:5%;
+    border-bottom-style: none;
+    border-width:5px;
+}
+img{
+    height:200px;
+    width:500px;
+}
+table, th, td{
+    border-collapse:collapse;
+    border:1px solid;
+}
+.testClass{
+    color:pink;
+}

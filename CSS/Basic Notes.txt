@@ -1,0 +1,9 @@
+What is CSS
+
+selector {
+	property:value;
+}
+
+selector - "who" "which class"
+property - "what do you want it to change" "wanna change the width? height? announce what you're doing"
+value - number of pixels, percentage of the screen "how do much do you want it to be?"
